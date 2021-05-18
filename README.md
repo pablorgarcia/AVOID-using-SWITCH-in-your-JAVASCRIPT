@@ -1,0 +1,2 @@
+# AVOID-using-SWITCH-in-your-JAVASCRIPT
+AVOID using SWITCH in your JAVASCRIPT
